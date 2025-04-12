@@ -13,3 +13,13 @@
 * git log -oneline, 
 * git diff, 
 * git reset --hard
+[x] checked
+[ ] unchecked
+> Лучше посрать и опоздать, чем прийти и обосраться
+Лысый мужик
+![котэк](https://funik.ru/wp-content/uploads/2018/10/17478da42271207e1d86.jpg "котэк")
+```
+a = 1
+b = 2
+print(a+b)
+```
