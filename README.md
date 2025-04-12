@@ -14,8 +14,8 @@
 * git diff, 
 * git reset --hard
 
-[x] checked
-[ ] unchecked
+* [x] checked
+* [ ] unchecked
 
 > Лучше посрать и опоздать, чем прийти и обосраться
 
