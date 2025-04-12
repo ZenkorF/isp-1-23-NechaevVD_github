@@ -13,8 +13,10 @@
 * git log -oneline, 
 * git diff, 
 * git reset --hard
+
 [x] checked
 [ ] unchecked
+
 > Лучше посрать и опоздать, чем прийти и обосраться
 
 Лысый мужик
